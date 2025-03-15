@@ -54,8 +54,8 @@ bck_castellan_city_xp_effects = {
         track = city
         value = {
             integer_range = {
-                min = 3
-                max = 7
+                min = 4
+                max = 10
             }
         }
     }
@@ -67,8 +67,8 @@ bck_castellan_castle_xp_effects = {
         track = castle
         value = {
             integer_range = {
-                min = 3
-                max = 7
+                min = 4
+                max = 10
             }
         }
     }

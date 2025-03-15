@@ -24,7 +24,7 @@
                 stewardship = 1
             }
             100 = {
-                stewardship = 1
+                stewardship = 2
                 tax_mult = 0.05
             }
         }
@@ -36,7 +36,7 @@
                 martial = 1
             }
             100 = {
-                martial = 1
+                martial = 2
                 fort_level = 1
             }
         }
